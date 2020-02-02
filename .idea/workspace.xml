@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="array-value-count:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea3d30d2-e755-44f2-bc78-4f1dd90b68f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WTkqGNEELOW6ipmBWT65YGfLu9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xng\Downloads\array-value-count\src\main\java\com\xiaoniangao" />
+      <recent name="C:\Users\xng\Downloads\array-value-count\src\main\zhihui\hive\udf" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="UDFArrayValueCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.xiaoniangao.udf.array.UDFArrayValueCount" />
+      <module name="array-value-count" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.xiaoniangao.udf.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UDFArrayValueCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea3d30d2-e755-44f2-bc78-4f1dd90b68f9" name="Default Changelist" comment="" />
+      <created>1579181160906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579181160906</updated>
+      <workItem from="1579181166886" duration="181000" />
+      <workItem from="1579181700758" duration="5251000" />
+      <workItem from="1579226722558" duration="2697000" />
+      <workItem from="1579523923075" duration="5975000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1579181346982">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1579181346982" />
+    <state x="484" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579181273828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="484" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1579181273828" />
+    <state x="521" y="254" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1579187735838">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="521" y="254" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1579187735838" />
+    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1579750562307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1579750562307" />
+    <state x="499" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579189129407">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1579189129407" />
+    <state x="549" y="156" key="FileChooserDialogImpl" timestamp="1579188058170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579188058170" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1579604481085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579604481085" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1579758489746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579758489746" />
+  </component>
+</project>

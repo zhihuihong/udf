@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="array-value-count:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/array_value_count_jar</output-path>
+    <root id="archive" name="array-value-count.jar">
+      <element id="module-output" name="array-value-count" />
+    </root>
+  </artifact>
+</component>
