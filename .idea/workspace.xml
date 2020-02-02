@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="array-value-count:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a92a043-2968-43fd-8e2a-485db4231f46" name="Default Changelist" comment="" />
+    <list default="true" id="8a92a043-2968-43fd-8e2a-485db4231f46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/array_value_count.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/array_value_count_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoniangao/UDFArrayValueCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaoniangao/UDFArrayValueCount.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
@@ -17,10 +33,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\zhihu\.m2\repository" />
+        <option name="mavenHome" value="C:/Program Files/Java/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
@@ -36,9 +63,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -58,9 +87,21 @@
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
     <state x="293" y="188" key="#Project_Structure/0.0.1707.1027@0.0.1707.1027" timestamp="1580623625466" />
-    <state x="396" y="355" key="com.intellij.ide.util.TipDialog" timestamp="1580623576807">
+    <state x="554" y="384" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580644134955">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state x="396" y="355" key="com.intellij.ide.util.TipDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1580623576807" />
+    <state x="554" y="384" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1580644134955" />
+    <state x="331" y="185" key="Maven.ArtifactSearchDialog" timestamp="1580624537609">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="331" y="185" key="Maven.ArtifactSearchDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1580624537609" />
+    <state x="304" y="172" key="SettingsEditor" timestamp="1580644677658">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="304" y="172" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1580644677658" />
+    <state x="396" y="355" key="com.intellij.ide.util.TipDialog" timestamp="1580627305032">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="396" y="355" key="com.intellij.ide.util.TipDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1580627305032" />
   </component>
 </project>
